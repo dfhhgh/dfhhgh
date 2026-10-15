@@ -11,7 +11,11 @@
 <a href="https://dfhhgh.github.io/amir-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-22d3ee?style=flat-square" alt="Portfolio website" /></a>
 <a href="https://codeforces.com/profile/OmranAmir"><img src="https://img.shields.io/badge/Codeforces-OmranAmir-8b5cf6?style=flat-square" alt="Codeforces profile" /></a>
 <a href="https://github.com/dfhhgh?tab=followers"><img src="https://img.shields.io/github/followers/dfhhgh?style=flat-square&label=Followers&color=3b82f6" alt="GitHub followers (via shields.io)" /></a>
-<img src="https://komarev.com/ghpvc/?username=dfhhgh&label=Profile+views&color=0e75b6&style=flat-square" alt="Profile views counter (via komarev.com)" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dfhhgh&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views Counter" />
+</p>
+
 
 </div>
 
